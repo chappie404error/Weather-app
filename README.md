@@ -4,11 +4,11 @@ Python program which gives real time weather using open weather API  and folium 
 
 # console
 <p>
-  <img width=100% src ="intro1.png">
+  <img width=80% src ="intro1.png">
 </p> 
 
 # browser for displaying map
 <p1>
-  <img width=100% src ="intro2.png">
+  <img width=80% src ="intro2.png">
 </p1>
 
