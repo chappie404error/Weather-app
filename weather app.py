@@ -2,7 +2,7 @@ import webbrowser
 import requests
 import folium
 
-api_key = "d895bc7c65c2a930314b01615d44ce54"
+api_key = "ur api key"
 
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
